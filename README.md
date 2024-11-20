@@ -1,4 +1,4 @@
-# OH! Minecraft Launcher Core / OH! Minecraft 启动器
+# OH! Minecraft Launcher Core / OH! Minecraft 启动器核心
 
 OH! Minecraft Launcher Core
 
@@ -6,4 +6,4 @@ OH! Minecraft Launcher Core
 
 | Projects | Latest Version | Status | Info
 | ------ | ------ | ------ | ------ |
-| OMCL Americano (1.X) | Not Available | Developing | :computer: In internal development
+| OMCL Core Americano (1.1.X) | Not Available | Developing | :computer: In internal development
